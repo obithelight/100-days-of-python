@@ -1,6 +1,6 @@
 # 100 Days of Python 
 
-Come learn with **ME** and build real world projects with Python. All within 100 days.
+Come learn with **ME** and build real world projects with _Python_. All done within 100 days.
 
 > Crafted with passion by [obichukwu](https://www.linkedin.com/in/obithelight/) | [see all projects](#projects)
 
