@@ -15,13 +15,14 @@ len(1234)
 TypeError: object of type 'int' has no len()
 ```
 
-It gave us a TypeError because we gave the len function a number(integer) instead f a string.
+It gave us a TypeError because we gave the len function a number(integer) instead of a string.
+
 
 # Data types and Functions
 
 Data types and functions can be likened to a potato chip machine that takes in only potatoes and gives out fries(chips). Let's say we took the same machine that normally processes potatoes and gave it a rock; there would be problems(errors). That's what happened with the len() function we used earlier. We gave it an integer instead of a string, which is not used for processing, so it gave us an error.
 
-let's treat another exampleí²ªíº€
+let's treat another example
 
 > A program that reports on the length of your name
 
