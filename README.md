@@ -1,10 +1,8 @@
 # 100 Days of Python 
 
-Finally!
+Come learn with **ME** and build real world projects with Python. All within 100 days.
 
-Come learn with Angela Yu and build real world projects - with Python. All within 100 days.
-
-> Enthusiastically made by [obichukwu](https://www.linkedin.com/in/obithelight/) | [see all projects](#projects)
+> Crafted with passion by [obichukwu](https://www.linkedin.com/in/obithelight/) | [see all projects](#projects)
 
 ## How to Use
 
