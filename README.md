@@ -1,24 +1,22 @@
-# 100DaysOfPython 
+# 100 Days of Python 
 
-<img src="https://github.com/user-attachments/assets/c84c5709-591f-4d0a-bdbc-aa8fb9ba0c8c" alt="obi-python-100-days" width="100%">
+Finally!
 
-# Python 100 days of code
+Come learn with Angela Yu and build real world projects - with Python. All within 100 days.
 
-Learn with Angela Yu and actually build projects? Yes. I have to learn python and build along within 100 days.
-
-> Made with í²– and hardwork by [Obi Chukwu](https://www.linkedin.com/in/obithelight/) | [see all projects](#projects)
+> Enthusiastically made by [obichukwu](https://www.linkedin.com/in/obithelight/) | [see all projects](#projects)
 
 ## How to Use
 
-To start the Python 100 Days of Code project:
+To start the 100 Days of Python project:
 
 1. Clone the repo:
     ```bash
-    git clone https://github.com/obithelight/python-100-days-of-code.git
+    git clone https://github.com/obithelight/100-days-of-python.git
     ```
 2. Navigate to the project folder:
     ```bash
-    cd python-100-days-of-code/category/day_folder
+    cd 100-days-of-python/category/day_folder
     ```
 3. Install dependencies (if any):
     ```bash
@@ -39,8 +37,7 @@ Donâ€™t forget to commit and push your changes to track your progress.
 Here is the folder structure of the repository:
 
 ```
-í³¦
-â”œâ”€ 00-beginner
+â”œâ”€ beginner
 â”‚  â”œâ”€ day-01
 â”‚  â”‚  â”œâ”€ README.md
 â”‚  â”‚  â”œâ”€ concepts
@@ -79,7 +76,7 @@ This folder structure allows for easy navigation and organization of the project
 
 ## Projects
 
-### Beginner Projects í°£
+### Beginner Projects
 
 | Day | Project                | Topic                                            |
 |-----|------------------------|--------------------------------------------------|
@@ -99,7 +96,4 @@ This folder structure allows for easy navigation and organization of the project
 | 14  | Turtle Crossing Game   | Game Development                                 |
 | 15  | Coffee Machine         | Object-Oriented Design                           |
 
-![python-100-days-of-code](https://socialify.git.ci/obichukwu/python-100-days-of-code/image?language=1&owner=1&name=1&stargazers=1&theme=Light)
-
 > copyright 2024
-
