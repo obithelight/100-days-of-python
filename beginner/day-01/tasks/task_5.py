@@ -1,8 +1,6 @@
-# Variable Naming
-# Learn the rules of variable naming in Python.
+# Variable Naming (Learn the rules of variable naming in Python)
 '''
 Rules
-
 1. Make sure your variable names are descriptive
 2. Don't have spaces between words
 3. Don't start with numbers
