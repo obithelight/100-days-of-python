@@ -7,6 +7,7 @@ a) var a = 12
 b) a = 12
 c) a: 12
 d) 12 = a
+
 **answer** 
 b) a = 12
 '''
@@ -17,6 +18,7 @@ a) p1 user name = "jackbauer"
 b) 1_player_username = "jackbauer"
 c) player1_username = "jackbauer"
 d) p1u = "jackbauer"
+
 **answer**
 c) palyer1_username = "jackbauer"
 '''
@@ -31,9 +33,11 @@ b) 1 | num_hours = "5"
 
 c) 1 | time_until_midnight = "5"
    2 | print("There are "+time_until_Midnight+" hours until midnight")
+
 **answer**
 a) 1 | time_until_midnight = "5"
    2 | print("There are " + time_until_Midnight + " hours until midnight")
+
 **bonus**
 It will produce a NameError: time_until_Midnight
 '''
