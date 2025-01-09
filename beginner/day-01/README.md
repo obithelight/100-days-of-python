@@ -1,6 +1,6 @@
 # Day1 - Working with variables to manage data
 
-I learned how to work with variables, manage data, and practiced using the following concepts:
+Learned how to work with variables, manage data, and practiced using the following concepts:
 
 - [Printing to console in python](./concepts/00_hello-world.py)
 - [Printing Exercise](./concepts/01_printing-exercise.py)
