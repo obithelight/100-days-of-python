@@ -1,1 +1,1 @@
-This folder contains beginner friendly tasks that aims to aid one's basic understanding of the python syntax
+This folder contains beginner tasks of the 100-days-of-Python. It focuses on the introduction to Python Programming, its basic usage, and syntax
