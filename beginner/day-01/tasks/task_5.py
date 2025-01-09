@@ -1,6 +1,5 @@
 # Variable Naming
 # Learn the rules of variable naming in Python.
-
 '''
 Rules
 
