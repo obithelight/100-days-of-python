@@ -13,4 +13,4 @@ This folder contains all the programming beginner concepts learned during my 100
 
 ## Authors
 
-- [obichukwu](https://www.github.com/obithelight)
+- [Obi Chukwu](https://www.github.com/obithelight)
