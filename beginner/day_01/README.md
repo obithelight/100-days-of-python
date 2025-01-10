@@ -8,9 +8,8 @@ Learned how to work with *variables* and *manage data* using the following conce
 - [Debugging](./concepts/03_debugging-practice.md)
 - [The Python Input Function](./concepts/05_input-function.py)
 - [Python Variables](./concepts/07_variables.py)
-```python
 - Variable naming
-```
+
 ## **Exercises**
 
 - [Debugging](./concepts/03_debugging-practice.md)
@@ -22,4 +21,4 @@ Learned how to work with *variables* and *manage data* using the following conce
 
 ## **Main project**
 
-> [Band name Generator Project](/00-beginner/day-01/main.py)
+- [Band name Generator Project](/00-beginner/day-01/main.py)
