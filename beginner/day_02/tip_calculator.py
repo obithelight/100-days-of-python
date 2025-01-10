@@ -11,6 +11,7 @@ Each person should pay:
 
 After formatting the result to 2 decimal places = 33.60
 '''
+
 # Print a welcome message
 print("Welcome to the tip calculator.")
 
