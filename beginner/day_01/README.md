@@ -1,4 +1,4 @@
-# **Day1 - Working with variables to manage data**
+# **Working with variables to manage data**
 
 Learned how to work with *variables* and *manage data* using the following concepts:
 
@@ -15,10 +15,10 @@ Learned how to work with *variables* and *manage data* using the following conce
 - [Debugging](./concepts/03_debugging-practice.md)
 - [Input Exercise](./concepts/06_input-exercise.md)
 
-## Quiz
+## **Quiz**
 
 - [Variable naming quiz](./quiz/00_naming-quiz.html)
 
-## Main project
+## **Main project**
 
 > [Band name Generator Project](/00-beginner/day-01/main.py)
