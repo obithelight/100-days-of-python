@@ -11,7 +11,6 @@ Each person should pay:
 
 After formatting the result to 2 decimal places = 33.60
 '''
-
 # Print a welcome message
 print("Welcome to the tip calculator.")
 
@@ -27,10 +26,10 @@ tip_amount = (tip / 100) * bill
 # Add tip_amount to bill
 final_bill = tip_amount + bill
 
-# Divide final_bill by no_of_persons to get what each person will pay
+# Divide final_bill by no_of_persons to get what each person should pay
 each_to_pay = final_bill / no_of_persons
 
-# Round up each_to_pay to 2 decimal numbers as per requirements
+# Round up each_to_pay to 2 decimal places as per requirement
 each_to_pay = round(each_to_pay, 2)
 
 # Print the output message with final_bill for each person
