@@ -29,10 +29,10 @@ float
     print(f"You are {age} years old")
 
  d. age = 12
-    print("You are " + age + years old")
+    print("You are " + age + " years old")
 ```
 **Result**
 ```
  d. age = 12
-    print("You are " + age + years old")
+    print("You are " + age + " years old")
 ```
