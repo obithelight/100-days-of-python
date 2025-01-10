@@ -28,8 +28,10 @@ c) player1_username = "jackbauer"
 ```
 a) time_until_midnight = "5"
    print("There are " + time_until_Midnight + " hours until midnight")
+
 b) num_hours = "5"
    print("There are " + num_hours + " hours until midnight")
+
 c) time_until_midnight = "5"
    print("There are "+time_until_Midnight+" hours until midnight")
 ```
