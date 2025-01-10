@@ -8,16 +8,17 @@ Learned how to work with *variables* and *manage data* using the following conce
 - [Debugging](./concepts/03_debugging-practice.md)
 - [The Python Input Function](./concepts/05_input-function.py)
 - [Python Variables](./concepts/07_variables.py)
+```python
 - Variable naming
-
+```
 ## **Exercises**
 
-< [Debugging](./concepts/03_debugging-practice.md)
-< [Input Exercise](./concepts/06_input-exercise.md)
+- [Debugging](./concepts/03_debugging-practice.md)
+- [Input Exercise](./concepts/06_input-exercise.md)
 
 ## **Quiz**
 
-> [Variable naming quiz](./quiz/00_naming-quiz.html)
+- [Variable naming quiz](./quiz/00_naming-quiz.html)
 
 ## **Main project**
 
