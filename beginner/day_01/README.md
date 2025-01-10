@@ -17,7 +17,7 @@ Learned how to work with *variables* and *manage data* using the following conce
 
 ## **Quiz**
 
-- [Variable naming quiz](./quiz/00_naming-quiz.html)
+> [Variable naming quiz](./quiz/00_naming-quiz.html)
 
 ## **Main project**
 
