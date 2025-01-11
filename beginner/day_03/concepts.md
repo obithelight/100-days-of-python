@@ -28,9 +28,9 @@ if 5 > 2: #This is a parent line of code
     print("yes") #this is a child line of code
 ```
 # Comparator Operators
-```> Greater than```
-- < Less than
-```>= Greater than or equal to```
-- <= Less than or equal to
-- == Equal to
-- != Not equal to
+- ```> Greater than```
+- ```< Less than```
+- ```>= Greater than or equal to```
+- ```<= Less than or equal to```
+- ```== Equal to```
+- ```!= Not equal to```
