@@ -7,10 +7,10 @@ Your goal today is to build a "Chose your own adventure game". Using what you ha
 Once you've completed the project, you can always extend the game and make it more interesting!
 
 # To play the game:
-'''python
+```python
     cd treasure_island
-'''
+```
 
-'''python
+```python
     python3 main.py
-'''
+```
