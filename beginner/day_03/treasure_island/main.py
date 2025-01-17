@@ -1,0 +1,10 @@
+import time
+from leftRight import left_or_right
+
+
+print("Welcome to the Treasure Island.\nYour mission is to find the missing treasure.")
+time.sleep(3)
+print("---------------------------------------------")
+
+
+left_or_right()
