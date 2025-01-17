@@ -5,9 +5,9 @@ Create a coin flip program using what you have learnt about randomisation in Pyt
 
 import random
 
-choice = random.randint(1, 2)
+coin = random.randint(1, 2)
 
-if choice == 1:
+if coin == 1:
     print("Heads")
 else:
     print("Tails")
