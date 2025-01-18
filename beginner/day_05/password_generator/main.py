@@ -56,10 +56,10 @@ clear_screen()
 print("Easy Level Password:", mypassword)
 
 # Hard Level: randomly rearrange the password 
-# step 1: convert string to list to shuffle
+# step 1: convert string to list and shuffle the list
 mypassword = list(mypassword)
 random.shuffle(mypassword)
 
-# step 2: convert list back to string to concatenate
+# step 2: convert the list back to string and concatenate
 mypassword = "".join(mypassword)
 print("Hard Level Password:", mypassword)
