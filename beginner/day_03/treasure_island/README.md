@@ -8,7 +8,7 @@ Once you've completed the project, you can always extend the game and make it mo
 
 # To play the game:
 ```python
-    cd treasure_island
+    cd 100-days-of-python/beginner/day_03/treasure_island
 ```
 
 ```python
