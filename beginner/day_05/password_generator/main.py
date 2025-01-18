@@ -1,6 +1,6 @@
+from clearScreen import clear_screen
 import random
 import time
-import os
 
 letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
 numbers = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']
@@ -12,7 +12,7 @@ time.sleep(1)
 while True:
     nr_letters = input("How many letters should be present in your password? ")
     if not nr_letters.isdigit():
-        os.system('clear')
+        clear_screen()
         print("Wrong input. Please enter a number.")
     else:
         break
@@ -20,7 +20,7 @@ while True:
 while True:
     nr_numbers = input("How many numbers should be present in your password? ")
     if not nr_numbers.isdigit():
-        os.system('clear')
+        clear_screen()
         print("Wrong input. Please enter a number.")
     else:
         break
@@ -28,7 +28,7 @@ while True:
 while True:
     nr_symbols = input("How many symbols should be present in your password? ")
     if not nr_symbols.isdigit():
-        os.system('clear')
+        clear_screen()
         print("Wrong Input. Please enter a number.")
     else:
         break
@@ -52,7 +52,7 @@ for _ in range(nr_symbols):
 # print(mypassword)
 
 # Easy Level: Print the password sequentially
-os.system('clear')
+clear_screen()
 print("Easy Level Password:", mypassword)
 
 # Hard Level: randomly rearrange the password 
