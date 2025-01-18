@@ -1,6 +1,6 @@
 # Lists
 
-You can create a simple collection of ordered items using a Python list. e.g.
+You can create a simple collection of ordered items using a ```Python``` list. e.g.
 
 ```
 fruits = ["Cherry", "Apple", "Pear"]
@@ -19,7 +19,7 @@ You can provide the name of the list then a square bracket and then the item ind
 states_of_america[0]
 ```
 
-- will give you "Delaware".
+- _will give you_ ```Delaware```.
 
 Remember that everything computer related, the first number we count with is 0 and never 1. 0, 1, 2, 3 instead of 1, 2, 3 4.
 
@@ -29,7 +29,12 @@ You can access items in the list counting from the end of the list by using nega
 ```
 fruits = ["Cherry", "Apple", "Pear"]
 ```
-- fruits[-1]  _this will be_  ```Pear```
+------------------------------------------------------
+```
+fruits[-1]
+``` 
+
+- _will give you_ ```Pear```
 
 ### Modifying Items
 You can use the same syntax to get hold of items in a List to modify it. e.g.
@@ -39,7 +44,7 @@ fruits = ["Cherry", "Apple", "Pear"]
 
 fruits[0] = "Orange"
 ```
-- fruits will now become ```["Orange", "Apple", "Pear"]```
+- _fruits will now become_ ```["Orange", "Apple", "Pear"]```
 
 ### Adding Items
 You can add items to the end of a List using the ```append()``` function. e.g.
@@ -49,7 +54,7 @@ fruits = ["Cherry", "Apple", "Pear"]
 
 fruits.append("Orange")
 ```
-- fruits will now become ```["Cherry", "Apple", "Pear", "Orange"]```
+- ```fruits``` _will now become_ ```["Cherry", "Apple", "Pear", "Orange"]```
 
 ### Lists Documentation
 You can find the documentation for Python Lists and other List related functions [here](https://docs.python.org/3/tutorial/datastructures.html)
