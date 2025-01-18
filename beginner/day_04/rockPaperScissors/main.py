@@ -33,7 +33,7 @@ Demo
 https://appbrewery.github.io/python-day4-demo/
 '''
 
-game = ['rock', 'paper', 'scissors']
+game = ['rock', 'paper', 'scissors'] # 0, 1, 2
 computer_choice = random.choice(game)
 
 print("Welcome to the Rock-Paper-Scissors Game Show.")
@@ -46,8 +46,8 @@ while True:
 user_input = int(user_input)
 user_choice = game[user_input]
 
-print("Computer choice is:", computer_choice)
-print("User choice is:", user_choice)
+print("Computer chose:", computer_choice)
+print("You chose:", user_choice)
 
 # computer wins
 if computer_choice == 'rock' and user_choice == 'scissors':
