@@ -5,7 +5,6 @@ from clearScreen import clear_screen
 def left_or_right():
     direction = input("Would you like to go 'left' or 'right'? ").lower() 
 
-
     if direction == 'right':
         print("You fell into a hole. Game Over.")
         return
