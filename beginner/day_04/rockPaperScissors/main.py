@@ -33,7 +33,7 @@ Demo
 https://appbrewery.github.io/python-day4-demo/
 '''
 
-game = ['rock', 'paper', 'scissors'] # 0, 1, 2
+game = ['rock', 'paper', 'scissors']
 computer_choice = random.choice(game)
 
 print("Welcome to the Rock-Paper-Scissors Game Show.")
