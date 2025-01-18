@@ -51,11 +51,9 @@ for _ in range(nr_symbols):
     mypassword += random.choice(symbols)
 # print(mypassword)
 
-
 # Easy Level: Print the password sequentially
 os.system('clear')
 print("Easy Level Password:", mypassword)
-
 
 # Hard Level: randomly rearrange the password 
 # step 1: convert string to list to shuffle
