@@ -1,9 +1,8 @@
-import os
 import time
+from clearScreen import clear_screen
 
 def red_blue_yellow():
     door = input("Which door would you rather go through?\n'Red', 'Blue' or 'Yellow': ").lower()
-    # os.system('clear')
 
     if door == 'red':
         print("You've been burned by fire. Game Over.")
@@ -20,5 +19,5 @@ def red_blue_yellow():
     else:
         print("Invalid input. Please enter 'red', 'blue' or 'yellow'.")
         time.sleep(2)
-        os.system('clear')
+        clear_screen()
         red_blue_yellow()
