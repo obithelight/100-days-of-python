@@ -1,5 +1,5 @@
 # Length of List
-You can get the [length of a list](https://docs.python.org/3/library/functions.html#len)(number of items in the list) or the length of a string (number characters in the string) by using the ```len()``` function. [length_of_list](https://docs.python.org/3/library/functions.html#len)
+You can get the [length of a list](https://docs.python.org/3/library/functions.html#len) (number of items in the list) or the length of a string (number characters in the string) by using the ```len()``` function.
 
 ### IndexError
 When you try to access an item that is not in the range of the List, you will get an IndexError. e.g.
