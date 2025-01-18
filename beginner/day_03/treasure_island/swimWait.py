@@ -2,7 +2,6 @@ import time
 from clearScreen import clear_screen
 from redBlueYellow import red_blue_yellow
 
-
 def swim_or_wait():
     choice = input("Would you rather 'swim' across or 'wait' for a boat? ").lower() 
 
