@@ -39,7 +39,7 @@ fruits = ["Cherry", "Apple", "Pear"]
 
 fruits[0] = "Orange"
 ```
-#fruits will now become ["Orange", "Apple", "Pear"]
+- fruits will now become ["Orange", "Apple", "Pear"]
 
 ### Adding Items
 You can add items to the end of a List using the ```append()``` function. e.g.
@@ -49,7 +49,7 @@ fruits = ["Cherry", "Apple", "Pear"]
 
 fruits.append("Orange")
 ```
-#fruits will now become ["Cherry", "Apple", "Pear", "Orange"]
+- fruits will now become ["Cherry", "Apple", "Pear", "Orange"]
 
 ### Lists Documentation
 You can find the documentation for Python Lists and other List related functions [here](https://docs.python.org/3/tutorial/datastructures.html)
