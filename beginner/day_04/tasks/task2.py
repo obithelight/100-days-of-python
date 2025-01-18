@@ -1,7 +1,10 @@
-# Figure out how to pick a random name from the list of friends.
-
 import random
 
-friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
+'''
+Figure out how to pick a random name from the list of friends.
+'''
 
-print(random.choice(friends))
+friends = ["Alice", "Bob", "Charlie", "David", "Emanuel"]
+random_name = random.choice(friends)
+
+print(random_name)
