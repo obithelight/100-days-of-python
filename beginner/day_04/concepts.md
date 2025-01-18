@@ -29,7 +29,7 @@ You can access items in the list counting from the end of the list by using nega
 ```
 fruits = ["Cherry", "Apple", "Pear"]
 ```
-------------------------------------------------------
+---
 ```
 fruits[-1]
 ``` 
@@ -44,7 +44,7 @@ fruits = ["Cherry", "Apple", "Pear"]
 
 fruits[0] = "Orange"
 ```
-- _fruits will now become_ ```["Orange", "Apple", "Pear"]```
+- ```fruits``` _will now become_ ```["Orange", "Apple", "Pear"]```
 
 ### Adding Items
 You can add items to the end of a List using the ```append()``` function. e.g.
@@ -57,4 +57,4 @@ fruits.append("Orange")
 - ```fruits``` _will now become_ ```["Cherry", "Apple", "Pear", "Orange"]```
 
 ### Lists Documentation
-You can find the documentation for Python Lists and other List related functions [here](https://docs.python.org/3/tutorial/datastructures.html)
+You can find the documentation for ```Python``` Lists and other List related functions [here](https://docs.python.org/3/tutorial/datastructures.html)
