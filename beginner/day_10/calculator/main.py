@@ -21,6 +21,7 @@ def calculator():
             clearscreen()
             print(f"Invalid input. Choose an operation from: {choice}")
             operator = input("Pick an operation to perform: ").strip()
+
         second_number = get_number("\nEnter your second number: ")
         result = operations[operator](first_number, second_number)
         print(f"{first_number} {operator} {second_number} = {result}")
@@ -28,13 +29,16 @@ def calculator():
                                 f"with {result}.\nType 'n' to start a new "
                                 "calculation.\nType any other key "
                                 "to quit the program.\n\n").lower()
+
         clearscreen()
 
         if should_continue == 'y':
             first_number = result
             print(f"Your first number is: {first_number}")
+
         elif should_continue == 'n':
             calculator()
+
         else:
             print("Shutting down calculator..")
             time.sleep(3)
